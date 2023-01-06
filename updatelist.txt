@@ -9,4 +9,4 @@ plugins/Elestrals/sets/setimages/general/spawned.jpg	http://www.lackeyccg.com/El
 plugins/Elestrals/sets/CardData1.txt	http://www.lackeyccg.com/Elestrals/CardData1.txt	22641253
 http://www.lackeyccg.com/Elestrals/CardData2.txt	26613050
 CardGeneralURLs:
-http://www.lackeyccg.com/Elestrals/high/
+https://github.com/JRJeffery3rd/Elestrals-lackeyccg-plugin
