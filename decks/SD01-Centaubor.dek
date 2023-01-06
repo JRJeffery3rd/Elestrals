@@ -1,0 +1,69 @@
+<deck version="0.8">
+	<meta>
+		<game>Elestrals</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="SD01-16Demeter">Demeter</name><set>SD01</set></card>
+		<card><name id="SD01-16Demeter">Demeter</name><set>SD01</set></card>
+		<card><name id="SD01-07Equilynx">Equilynx</name><set>SD01</set></card>
+		<card><name id="SD01-07Equilynx">Equilynx</name><set>SD01</set></card>
+		<card><name id="SD01-17FoloiForest">Foloi Forest</name><set>SD01</set></card>
+		<card><name id="SD01-17FoloiForest">Foloi Forest</name><set>SD01</set></card>
+		<card><name id="SD01-06Girafflora">Girafflora</name><set>SD01</set></card>
+		<card><name id="SD01-06Girafflora">Girafflora</name><set>SD01</set></card>
+		<card><name id="SD01-09Rummagem">Rummagem</name><set>SD01</set></card>
+		<card><name id="SD01-01Sproutyr">Sproutyr</name><set>SD01</set></card>
+		<card><name id="SD01-01Sproutyr">Sproutyr</name><set>SD01</set></card>
+		<card><name id="SD01-01Sproutyr">Sproutyr</name><set>SD01</set></card>
+		<card><name id="SD01-08Tectaurus">Tectaurus</name><set>SD01</set></card>
+		<card><name id="SD01-08Tectaurus">Tectaurus</name><set>SD01</set></card>
+		<card><name id="SD01-19Earthquake">Earthquake</name><set>SD01</set></card>
+		<card><name id="SD01-19Earthquake">Earthquake</name><set>SD01</set></card>
+		<card><name id="SD01-02Satymber">Satymber</name><set>SD01</set></card>
+		<card><name id="SD01-02Satymber">Satymber</name><set>SD01</set></card>
+		<card><name id="SD01-18ScytheofDemeter">Scythe of Demeter</name><set>SD01</set></card>
+		<card><name id="SD01-18ScytheofDemeter">Scythe of Demeter</name><set>SD01</set></card>
+		<card><name id="SD01-03Centaurbor">Centaurbor</name><set>SD01</set></card>
+		<card><name id="SD01-05Spinosect">Spinosect</name><set>SD01</set></card>
+		<card><name id="SD01-05Spinosect">Spinosect</name><set>SD01</set></card>
+		<card><name id="SD01-14Ambrosia">Ambrosia</name><set>SD01</set></card>
+		<card><name id="SD01-15CircletheSky">Circle the Sky</name><set>SD01</set></card>
+		<card><name id="SD01-22PoisonTippedArrow">Poison Tipped Arrow</name><set>SD01</set></card>
+		<card><name id="SD01-22PoisonTippedArrow">Poison Tipped Arrow</name><set>SD01</set></card>
+		<card><name id="SD01-13NectaroftheGods">Nectar of the Gods</name><set>SD01</set></card>
+		<card><name id="SD01-13NectaroftheGods">Nectar of the Gods</name><set>SD01</set></card>
+		<card><name id="SD01-12Boombatt">Boombatt</name><set>SD01</set></card>
+		<card><name id="SD01-12Boombatt">Boombatt</name><set>SD01</set></card>
+		<card><name id="SD01-21Thunderstorm">Thunderstorm</name><set>SD01</set></card>
+		<card><name id="SD01-11Aeromare">Aeromare</name><set>SD01</set></card>
+		<card><name id="SD01-11Aeromare">Aeromare</name><set>SD01</set></card>
+		<card><name id="SD01-10Peagust">Peagust</name><set>SD01</set></card>
+		<card><name id="SD01-10Peagust">Peagust</name><set>SD01</set></card>
+		<card><name id="SD01-20Tornado">Tornado</name><set>SD01</set></card>
+		<card><name id="SD01-20Tornado">Tornado</name><set>SD01</set></card>
+		<card><name id="SD01-04Spinymph">Spinymph</name><set>SD01</set></card>
+		<card><name id="SD01-04Spinymph">Spinymph</name><set>SD01</set></card>
+	</superzone>
+	<superzone name="Spirits">
+		<card><name id="SD01-24Lycarus">Lycarus</name><set>SD01</set></card>
+		<card><name id="SD01-24Lycarus">Lycarus</name><set>SD01</set></card>
+		<card><name id="SD01-24Lycarus">Lycarus</name><set>SD01</set></card>
+		<card><name id="SD01-24Lycarus">Lycarus</name><set>SD01</set></card>
+		<card><name id="SD01-24Lycarus">Lycarus</name><set>SD01</set></card>
+		<card><name id="SD01-23Teratlas">Teratlas</name><set>SD01</set></card>
+		<card><name id="SD01-23Teratlas">Teratlas</name><set>SD01</set></card>
+		<card><name id="SD01-23Teratlas">Teratlas</name><set>SD01</set></card>
+		<card><name id="SD01-23Teratlas">Teratlas</name><set>SD01</set></card>
+		<card><name id="SD01-23Teratlas">Teratlas</name><set>SD01</set></card>
+		<card><name id="SD01-23Teratlas">Teratlas</name><set>SD01</set></card>
+		<card><name id="SD01-23Teratlas">Teratlas</name><set>SD01</set></card>
+		<card><name id="SD01-23Teratlas">Teratlas</name><set>SD01</set></card>
+		<card><name id="SD01-23Teratlas">Teratlas</name><set>SD01</set></card>
+		<card><name id="SD01-23Teratlas">Teratlas</name><set>SD01</set></card>
+		<card><name id="SD01-23Teratlas">Teratlas</name><set>SD01</set></card>
+		<card><name id="SD01-23Teratlas">Teratlas</name><set>SD01</set></card>
+		<card><name id="SD01-25Zaptor">Zaptor</name><set>SD01</set></card>
+		<card><name id="SD01-25Zaptor">Zaptor</name><set>SD01</set></card>
+		<card><name id="SD01-25Zaptor">Zaptor</name><set>SD01</set></card>
+	</superzone>
+</deck>
