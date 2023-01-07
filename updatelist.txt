@@ -1,12 +1,12 @@
 elestrals	01-05-22
-plugins/Elestrals/plugininfo.txt	http://www.lackeyccg.com/Elestrals/plugininfo.txt	367341
-plugins/Elestrals/defaultchat.txt	http://www.lackeyccg.com/Elestrals/defaultchat.txt	12905
-plugins/Elestrals/version.txt	http://www.lackeyccg.com/Elestrals/high/version.txt	22258
-plugins/Elestrals/packs/packdefinitions1.xml	http://www.lackeyccg.com/Elestrals/packs/packdefinitions1.xml	208914
-plugins/Elestrals/sets/setimages/general/cardback.jpg	http://www.lackeyccg.com/Elestrals/high/cardback.jpg	-45223
-plugins/Elestrals/sets/setimages/general/spawned.jpg http://www.lackeyccg.com/Elestrals/high/spawned.jpg 306451
-plugins/Elestrals/sets/setimages/general/spawned.jpg	http://www.lackeyccg.com/Elestrals/high/spawned.jpg	-54677
-plugins/Elestrals/sets/CardData1.txt	http://www.lackeyccg.com/Elestrals/CardData1.txt	22641253
-http://www.lackeyccg.com/Elestrals/CardData2.txt	26613050
+plugins/Elestrals/plugininfo.txt	https://www.mediafire.com/Elestrals/updatelist.txt	367341
+plugins/Elestrals/defaultchat.txt	https://www.mediafire.com/Elestrals/defaultchat.txt	12905
+plugins/Elestrals/version.txt	https://www.mediafire.com/Elestrals/high/version.txt	22258
+plugins/Elestrals/packs/packdefinitions1.xml	https://www.mediafire.com/Elestrals/packs/packdefinitions1.xml	208914
+plugins/Elestrals/sets/setimages/general/cardback.jpg	https://www.mediafire.com/Elestrals/high/cardback.jpg	-45223
+plugins/Elestrals/sets/setimages/general/spawned.jpg https://www.mediafire.com/Elestrals/spawned.jpg 306451
+plugins/Elestrals/sets/setimages/general/spawned.jpg	https://www.mediafire.com/Elestrals/spawned.jpg	-54677
+plugins/Elestrals/sets/CardData1.txt	hhttps://www.mediafire.com/Elestrals/CardData1.txt	22641253
+
 CardGeneralURLs:
-https://github.com/JRJeffery3rd/Elestrals-lackeyccg-plugin
+https://github.com/JRJeffery3rd/Elestrals-lackeyccg-plugin/tree/main/sets/setimages/general
